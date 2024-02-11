@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudeep-m-shetty" alt="sudeep-m-shetty" /></a> </p>
 
+[![An image of @sudeepmshetty's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sudeepmshetty)](https://holopin.io/@sudeepmshetty)
+
 - 🌱 I’m currently learning **ReactJs**
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
