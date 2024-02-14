@@ -30,10 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudeep-m-shetty&show_icons=true&locale=en" alt="sudeep-m-shetty" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudeep-m-shetty&" alt="sudeep-m-shetty" /></p>
-
-<p align="center">  
-    <u> | Profile visits | </u> 
- </p> 
- <p align="center">  
-   <img src="https://profile-counter.glitch.me/SUDEEP-M-SHETTY/count.svg" alt="Visitor Count" align="center" /> 
- </p>
