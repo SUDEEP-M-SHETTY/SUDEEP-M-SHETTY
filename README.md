@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://giphy.com/gifs/GitHub-ok-thumbs-up-thumb-NytMLKyiaIh6VH9SPm"  />
+  <img height="150" src="https://giphy.com/embed/NytMLKyiaIh6VH9SPm" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/GitHub-ok-thumbs-up-thumb-NytMLKyiaIh6VH9SPm">via GIPHY</a></p>"  />
 </div>
 <h1 align="center">Hi 👋, I'm Sudeep M Shetty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
