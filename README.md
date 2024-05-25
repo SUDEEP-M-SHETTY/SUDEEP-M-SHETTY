@@ -1,4 +1,4 @@
-<div><img src="https://giphy.com/embed/NytMLKyiaIh6VH9SPm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
+<img src="https://giphy.com/embed/NytMLKyiaIh6VH9SPm" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 <h1 align="center">Hi 👋, I'm Sudeep M Shetty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
