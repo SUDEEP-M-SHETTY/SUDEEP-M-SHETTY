@@ -2,7 +2,7 @@
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVmNnlmM2x2NXZzbGxiemFoaHF4aXU2bTUxZmt6djB6ZDNtdzZ0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LIauOaWIbW62ImyOak/giphy.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm Sudeep M Shetty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudeep-m-shetty&label=Profile%20views&color=0e75b6&style=flat" alt="sudeep-m-shetty" /> </p>
 
