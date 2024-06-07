@@ -7,9 +7,10 @@
 <!--<h1 align="center">Hi 👋, I'm Sudeep M Shetty</h1>-->
 <h3 align="center">A passionate developer from India</h3>
 
-<div align="center">
-    <h1 align="center">Profile View Count</h1>
-    <img alt="views_counter" src="https://profile-counter.glitch.me/SUDEEP-M-SHETTY/count.svg">
+<div style="text-align: center;">
+  <p> 
+    <img src="https://komarev.com/ghpvc/?username=sudeep-m-shetty&label=Profile%20views&color=0e75b6&style=flat" alt="sudeep-m-shetty" /> 
+  </p>
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudeep-m-shetty" alt="sudeep-m-shetty" /></a> </p>
