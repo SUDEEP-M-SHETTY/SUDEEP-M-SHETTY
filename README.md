@@ -1,13 +1,15 @@
 <div align="center">
   <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVmNnlmM2x2NXZzbGxiemFoaHF4aXU2bTUxZmt6djB6ZDNtdzZ0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LIauOaWIbW62ImyOak/giphy.gif"  />
 </div>
-<h1 align="center">Hi 👋, I'm Sudeep M Shetty</h1>
+<div align="center">
+    <img alt="Welcome to my Profile! animated typed out" src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=500&height=50&lines=Hi👋,I'm Sudeep M Shetty">
+</div>
+<!--<h1 align="center">Hi 👋, I'm Sudeep M Shetty</h1>-->
 <h3 align="center">A passionate developer from India</h3>
 
-<div style="text-align: center;">
-  <p> 
-    <img src="https://komarev.com/ghpvc/?username=sudeep-m-shetty&label=Profile%20views&color=0e75b6&style=flat" alt="sudeep-m-shetty" /> 
-  </p>
+<div align="center">
+    <h1 align="center">Profile View Count</h1>
+    <img alt="views_counter" src="https://profile-counter.glitch.me/SUDEEP-M-SHETTY/count.svg">
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudeep-m-shetty" alt="sudeep-m-shetty" /></a> </p>
