@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sudeepmshetty6984" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudeepmshetty6984" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22013417/sudeep-m-shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22013417/sudeep-m-shetty" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/sudeepmshettysms/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sudeepmshettysms/" height="30" width="40" /></a>
+<!--<a href="https://leetcode.com/sudeepmshettysms/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sudeepmshettysms/" height="30" width="40" /></a>-->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
