@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVmNnlmM2x2NXZzbGxiemFoaHF4aXU2bTUxZmt6djB6ZDNtdzZ0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LIauOaWIbW62ImyOak/giphy.gif"  />
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWVmNnlmM2x2NXZzbGxiemFoaHF4aXU2bTUxZmt6djB6ZDNtdzZ0MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LIauOaWIbW62ImyOak/giphy.gif"/>
 </div>
 <!--<div align="center">
     <img alt="Welcome to my Profile! animated typed out" src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=500&height=50&lines=Hi👋,I'm Sudeep">
