@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sudeepmshettysms@gmail.com**
 
-- My Holopin profile **https://www.holopin.io/@sudeepmshetty#**
+- My LinkedIn profile **https://www.linkedin.com/in/sudeepmshetty6984/**
 
 - My Portfolio **https://sudeep-m-shetty.github.io/Portfolio/**
 
