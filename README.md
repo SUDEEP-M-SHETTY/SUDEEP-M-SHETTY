@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **sudeepmshettysms@gmail.com**
 
-- My LinkedIn profile **https://www.linkedin.com/in/sudeepmshetty6984/**
+- My DEV Community profile **https://dev.to/sudeepmshetty**
 
 - My Portfolio **https://sudeep-m-shetty.github.io/Portfolio/**
 
