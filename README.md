@@ -25,7 +25,7 @@
 
 - My DEV Community profile **https://dev.to/sudeepmshetty**
 
-- My Portfolio **https://sudeep-m-shetty.github.io/Portfolio/**
+- My Portfolio **https://sudeep-m-shetty-portfolio.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
