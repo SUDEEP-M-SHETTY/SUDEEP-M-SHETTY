@@ -5,7 +5,7 @@
     <img alt="Welcome to my Profile! animated typed out" src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=500&height=50&lines=Hi👋,I'm Sudeep">
 </div>-->
 <h1 align="center">Hi 👋, I'm Sudeep M Shetty</h1>
-<h3 align="center">A passionate developer from India</h3>
+<h3 align="center">A passionate CloudOps Engineer and DevOps Enthusiast from India</h3>
 
 <div style="text-align: center;">
   <p> 
@@ -27,7 +27,7 @@
 
 - My DEV Community profile **https://dev.to/sudeepmshetty**
 
-- My Portfolio **https://sudeep-m-shetty-portfolio.netlify.app/**
+- My Portfolio **https://sudeep-m-shetty.github.io/Portfolio/**
 
 <!--<h3 align="left">Connect with me:</h3>
 <p align="left">
